@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/back.png</file>
+        <file>images/beepoff.png</file>
+        <file>images/beepon.png</file>
+        <file>images/cpu.png</file>
+        <file>images/cur.png</file>
+        <file>images/device.png</file>
+        <file>images/hum.png</file>
+        <file>images/led1off.png</file>
+        <file>images/led1on.png</file>
+        <file>images/led2off.png</file>
+        <file>images/led2on.png</file>
+        <file>images/logo.ico</file>
+        <file>images/pw.png</file>
+        <file>images/relayoff.png</file>
+        <file>images/relayon.png</file>
+        <file>images/temp.png</file>
+        <file>images/vol.png</file>
+        <file>images/vr.png</file>
+        <file>images/io1off.png</file>
+        <file>images/io1on.png</file>
+        <file>images/io2off.png</file>
+        <file>images/io2on.png</file>
+        <file>images/io3off.png</file>
+        <file>images/io3on.png</file>
+        <file>images/io4off.png</file>
+        <file>images/io4on.png</file>
+        <file>images/relay1off.png</file>
+        <file>images/relay1on.png</file>
+        <file>images/relay2off.png</file>
+        <file>images/relay2on.png</file>
+        <file>images/relay3off.png</file>
+        <file>images/relay3on.png</file>
+        <file>images/relay4off.png</file>
+        <file>images/relay4on.png</file>
+    </qresource>
+</RCC>
